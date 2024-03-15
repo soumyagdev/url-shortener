@@ -163,6 +163,5 @@ CREATE TABLE urls (
 **Soumya Reddy Gaddam**
 Software Engineer | Java · Spring Boot · Python · AWS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gsred)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/soumyagdev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D4882E?style=flat&logo=safari&logoColor=white)](https://gsoumyar.github.io)
